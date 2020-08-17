@@ -5,8 +5,12 @@
   "main": "src/index.ts",
   "dependencies": {
     "acorn": "^7.1.1",
+    "components": "^0.1.0",
+    "icons": "^1.0.0",
+    "jest-svg-transformer": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
@@ -26,6 +30,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.1",
     "jest": "^25.2.3",
+    "jest-transform-stub": "^2.0.0",
     "mkdirp": "^1.0.3",
     "parcel-bundler": "^1.12.4",
     "prettier": "^1.19.1",
